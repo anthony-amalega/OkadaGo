@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "OkadaGo — Abeokuta Okada Hailing",
+  "short_name": "OkadaGo",
+  "description": "On-demand commercial motorcycle (Okada) hailing, driver cockpit, and safety operations platform for Abeokuta, Ogun State.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#111827",
+  "background_color": "#111827",
+  "categories": ["transportation", "navigation", "travel"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
